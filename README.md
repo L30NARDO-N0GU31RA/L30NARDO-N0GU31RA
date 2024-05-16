@@ -1,0 +1,7 @@
+- 👋 Meu nome é Leonardo e sou um desenvolvedor júnior Python apaixonado por tecnologia e sempre em busca de novos desafios.
+- 🧑🏼‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera, onde venho aprimorando meus conhecimentos e habilidades na área de desenvolvimento de software.
+- 🧠 Conhecimento amplo na API fornecida pelo TINY ERP
+- 📊 Conhecimento em manipulação de BANCO DE DADOS SQL e MySQL
+- 🖥️ Conhecimento amplo no FRAMEWORK PyQt6 para interfaces gráficas
+- 👨🏼‍💻 Conhecimento para criações de API com FRAMEWORK Flask
+- 🚀 Interessado em aprender novas tecnologias e colaborar em projetos inovadores
