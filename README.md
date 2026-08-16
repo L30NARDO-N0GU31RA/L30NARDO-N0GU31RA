@@ -3,5 +3,5 @@
 - 🧠 Conhecimento amplo na API fornecida pelo TINY ERP
 - 📊 Conhecimento em manipulação de BANCO DE DADOS SQL e MySQL
 - 🖥️ Conhecimento amplo no FRAMEWORK PyQt6 para interfaces gráficas
-- 👨🏼‍💻 Conhecimento para criações de API com FRAMEWORK Flask
+- 👨🏼‍💻 Conhecimento para criações de API com FRAMEWORK Django
 - 🚀 Interessado em aprender novas tecnologias e colaborar em projetos inovadores
